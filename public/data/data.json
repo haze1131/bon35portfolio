@@ -1,0 +1,117 @@
+{
+    "about": "Hi! I'm Muhammad Sulthan Musyaffa Fadhilah. I go to SMKN 2 Banjarmasin and I'm studying Software And Game Development. Especially front-end things ... yk, making websites look nice and work smoothly. I'm still learning, but hey, that's part of the fun, right? Feel free to explore my stuff and drop some feedback.",
+    "profile_photo": "6a1398943bfb6.png",
+    "socials": {
+        "github": "https://github.com/010-101",
+        "instagram": "https://instagram.com/arpe.lz",
+        "email": "mfms1622@gmail.com",
+        "linkedin": ""
+    },
+    "skills": [
+        {
+            "id": 1,
+            "name": "HTML",
+            "desc": "Basic HTML",
+            "category": "hard",
+            "level": 70
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "desc": "Basic CSS",
+            "category": "hard",
+            "level": 65
+        },
+        {
+            "id": 3,
+            "name": "PHP",
+            "desc": "Basic PHP",
+            "category": "hard",
+            "level": 55
+        },
+        {
+            "id": 4,
+            "name": "Laravel",
+            "desc": "Basic Laravel",
+            "category": "hard",
+            "level": 50
+        },
+        {
+            "id": 5,
+            "name": "JavaScript",
+            "desc": "js",
+            "category": "hard",
+            "level": 55
+        },
+        {
+            "id": 6,
+            "name": "MySql",
+            "desc": "Database",
+            "category": "hard",
+            "level": 55
+        }
+    ],
+    "interests": [
+        {
+            "id": 1,
+            "title": "Ilustration",
+            "desc": "cuz drawing is my hobby",
+            "image": "6a11b92c3d537.jpg",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "title": "Animation",
+            "desc": "Especially ... in Minecraft style ...",
+            "image": "6a11baada00dd.jpg",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "title": "Music",
+            "desc": "I love music.",
+            "image": "6a11bad01ca54.jpg",
+            "link": ""
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "( UI/UX Design ) Pixel Karya Portfolio",
+            "desc": "Portfolio for Pixel Karya, Graphic Designer team.",
+            "image": "6a11b084d4dca.png"
+        },
+        {
+            "id": 2,
+            "title": "( UI/UX Design ) Nova Team Portfolio",
+            "desc": "Portfolio for Nova Team, Web Developer team.",
+            "image": "6a11b50bd6a44.jpg"
+        },
+        {
+            "id": 3,
+            "title": "( Website ) My Portfolio",
+            "desc": "so ... yeah, this is my portfolio ...",
+            "image": "6a11b7d581aee.jpg",
+            "demo_url": "http://portfolionobugfr.test"
+        }
+    ],
+    "experiences": [],
+    "certificates": [],
+    "learning_logs": [],
+    "testimonials": [],
+    "educations": [],
+    "profile": {
+        "name": "Muhamad Sulthan Musyaffa Fadhilah",
+        "headline": "Web Developer | UI/UX Designer | Graphic Designer",
+        "class": "",
+        "school": "SMKN 2 Banjarmasin",
+        "competency": "Software and Game Development",
+        "tagline": "",
+        "main_skills": "HTML, CSS, JavaScript, PHP, Laravel",
+        "birth": "",
+        "address": "",
+        "tech_fields": "",
+        "career_goal": ""
+    },
+    "cv_file": ""
+}
